@@ -1,3 +1,6 @@
+## Live demo
+
+Open the application: https://your-app-name.onrender.com
 # InClaim Claims API
 
 Zero-dependency Node.js backend for the claims workflow. It uses Node 24's built-in SQLite driver, storing data in `data/vanta.db`, and saves submitted image files under `uploads/`.
